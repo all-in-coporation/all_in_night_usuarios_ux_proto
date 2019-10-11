@@ -33,7 +33,8 @@ Si la entrega fue satisfactoria el equipo de All in Night realizará el merge a 
 
 Si la entrega tuvo fallas el equipo de All in Night creará un documento con los errores reportados y sus respectivos codigos para proceder con la solución de las incidencias.
 
-##Entregas rechazadas
+## Entregas rechazadas
+
 Una entrega se rechaza si:
 
 - El código fuente no es legible o utiliza variables poco apropiadas con nombres como "x" o "y".
